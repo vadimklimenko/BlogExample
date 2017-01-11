@@ -29,7 +29,7 @@
                 </table>
             </div>
             <footer>
-                <p>Блог<br>Copywriting &copy; 2017</p>
+                <p>Блог<br>Copyright &copy; 2017</p>
             </footer>
         </div>
     </body>
